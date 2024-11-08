@@ -1,15 +1,5 @@
 # GDPR
 
-# Thinking
-
-
-# Searching
-
-
-# Responding
-
-
-
 # GDPR Key Concepts
 
 ## Scope of GDPR
