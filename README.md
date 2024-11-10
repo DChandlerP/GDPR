@@ -182,16 +182,6 @@ Organizations must:
 - Maintain records of processing activities
 - Keep privacy notices updated
 - Be able to demonstrate compliance
-     
-# Thinking
-
-
-# Searching
-
-
-# Responding
-
-
 
 ### Purpose Limitation
 
