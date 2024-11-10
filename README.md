@@ -15,8 +15,6 @@
 - Applies to automated and manual processing
 - Covers both digital and physical records
 
-## Core Principles (Article 5)
-1. **Lawfulness, Fairness, and Transparency**
 
 ## Core Principles (Article 5)
 
@@ -221,25 +219,275 @@ Organizations must:
 - Possible consequences for data subjects
 - Existence of appropriate safeguards
 
-3. **Data Minimization**
-   - Only collect what's needed
-   - No excessive data collection
+### Data Minimization
 
-4. **Accuracy**
-   - Keep data accurate and up to date
-   - Correct or delete inaccurate data
+#### Core Principle
+- Collect and process only data that is **adequate, relevant, and limited** to what is necessary
+- Must be proportionate to specified purposes
 
-5. **Storage Limitation**
-   - Only keep data as long as necessary
-   - Delete or anonymize when no longer needed
+#### Key Requirements
+- **Adequacy**: Data must be sufficient to fulfill stated purpose
+- **Relevance**: Clear connection between data and purpose
+- **Limitation**: No excess data beyond what's needed
 
-6. **Integrity and Confidentiality**
-   - Ensure appropriate security
-   - Protect against unauthorized processing
+#### Implementation Strategies
+- Regular data audits
+- Purpose-driven collection
+- Data mapping exercises
+- Privacy by design approach
 
-7. **Accountability**
-   - Must demonstrate compliance
-   - Active responsibility
+#### Practical Examples
+**Good Practice:**
+- Collecting only essential contact details for shipping
+- Storing only required employee data for payroll
+- Limiting retention periods to necessary timeframes
+
+**Poor Practice:**
+- Collecting phone numbers when email suffices
+- Keeping full credit card details after purchase
+- Storing personal data "just in case"
+
+#### Business Benefits
+- Reduced storage costs
+- Simplified compliance
+- Lower security risks
+- Enhanced trust
+- Easier data management
+
+#### Compliance Steps
+1. Identify minimum necessary data
+2. Document justification for each data element
+3. Regular review of collected data
+4. Remove unnecessary data
+5. Update privacy notices accordingly
+
+### Accuracy
+
+#### Core Principle
+- Personal data must be **accurate** and **kept up to date**
+- Inaccurate data must be erased or rectified without delay
+- Organizations must take reasonable steps to ensure accuracy
+
+#### Key Requirements
+- **Proactive Measures**
+  - Regular data verification
+  - Systematic accuracy checks
+  - Clear processes for updates
+  - Validation at point of collection
+
+#### Implementation Steps
+1. **Data Collection**
+   - Verify data at entry point
+   - Use standardized formats
+   - Implement validation rules
+   - Document source of data
+
+2. **Maintenance**
+   - Regular accuracy reviews
+   - Update procedures
+   - Clear correction processes
+   - Audit trails of changes
+
+3. **Correction Procedures**
+   - Easy process for subjects to request corrections
+   - Prompt response to accuracy concerns
+   - Notification of corrections to recipients
+   - Documentation of changes
+
+#### Best Practices
+- Enable data subjects to review their data
+- Implement data quality metrics
+- Regular staff training on accuracy
+- Automated validation where possible
+- Clear processes for handling disputes
+
+#### Risk Mitigation
+- Document accuracy verification efforts
+- Regular data quality assessments
+- Clear procedures for handling inaccuracies
+- Process for notifying affected parties
+- Record keeping of correction requests
+
+### Storage Limitation
+
+#### Core Principle
+- Personal data must be kept **only for as long as necessary** for the specified purposes
+- Organizations must implement and document clear retention periods
+
+#### Key Requirements
+1. **Time Limits**
+   - Define specific retention periods
+   - Document justification for retention
+   - Regular review of stored data
+   - Implement deletion procedures
+
+2. **Data Disposal Options**
+   - Secure deletion
+   - Anonymization
+   - Pseudonymization (where appropriate)
+   - Archive (for specific purposes)
+
+#### Implementation Steps
+1. **Retention Schedule**
+   - Document retention periods
+   - Justify retention timeframes
+   - Regular review and updates
+   - Consider legal requirements
+
+2. **Deletion Procedures**
+   - Automated deletion systems
+   - Manual review processes
+   - Secure disposal methods
+   - Audit trails
+
+#### Best Practices
+- Regular data audits
+- Clear retention policies
+- Staff training on retention
+- Documentation of decisions
+- Periodic review of necessity
+
+#### Exceptions
+Data may be kept longer for:
+- Archiving in public interest
+- Scientific/historical research
+- Statistical purposes
+- Legal obligations
+- Defense of legal claims
+
+#### Benefits
+- Reduced storage costs
+- Better data management
+- Simplified compliance
+- Reduced security risks
+- Enhanced trust
+
+### Integrity and Confidentiality (Security)
+
+#### Core Principle
+- Ensure **appropriate security** of personal data
+- Implement both **technical** and **organizational** measures
+- Protect against unauthorized or unlawful processing
+
+#### Technical Measures
+1. **Data Security**
+   - Encryption at rest and in transit
+   - Access controls
+   - Firewalls and network security
+   - Secure backup systems
+   - Intrusion detection systems
+
+2. **System Security**
+   - Regular security updates
+   - Vulnerability scanning
+   - Penetration testing
+   - Secure configuration
+   - Monitoring and logging
+
+#### Organizational Measures
+1. **Policies and Procedures**
+   - Information security policies
+   - Access management procedures
+   - Incident response plans
+   - Business continuity plans
+   - Data breach notification procedures
+
+2. **Personnel Security**
+   - Staff training and awareness
+   - Clear roles and responsibilities
+   - Background checks
+   - Confidentiality agreements
+   - Regular security updates
+
+#### Risk Management
+- Regular risk assessments
+- Impact assessments
+- Security audits
+- Vendor assessment
+- Incident response testing
+
+#### Key Protection Areas
+- **Confidentiality**
+  - Prevent unauthorized access
+  - Maintain data privacy
+  - Control information sharing
+
+- **Integrity**
+  - Ensure data accuracy
+  - Prevent unauthorized changes
+  - Maintain data quality
+
+- **Availability**
+  - Ensure system uptime
+  - Maintain data access
+  - Business continuity
+
+#### Documentation Requirements
+- Security policies
+- Risk assessments
+- Audit trails
+- Incident reports
+- Training records
+
+### Accountability
+
+#### Core Principle
+- Organizations must **actively demonstrate** GDPR compliance
+- Take **responsibility** for data processing activities
+- Implement appropriate measures proactively
+
+#### Key Requirements
+1. **Documentation**
+   - Written policies and procedures
+   - Records of processing activities
+   - Data Protection Impact Assessments (DPIAs)
+   - Legitimate interest assessments
+   - Consent records
+
+2. **Governance Structure**
+   - Appointment of DPO (when required)
+   - Clear roles and responsibilities
+   - Regular staff training
+   - Internal audits
+   - Reporting mechanisms
+
+#### Implementation Measures
+1. **Technical**
+   - Privacy by design
+   - Privacy by default
+   - Security measures
+   - Monitoring systems
+   - Audit trails
+
+2. **Organizational**
+   - Data protection policies
+   - Staff training programs
+   - Regular compliance reviews
+   - Vendor management
+   - Incident response plans
+
+#### Demonstrable Compliance
+- Maintain documentation
+- Regular assessments
+- Update procedures
+- Monitor effectiveness
+- Review and improve
+
+#### Best Practices
+- Risk-based approach
+- Regular policy reviews
+- Staff awareness
+- Documented decisions
+- Clear procedures
+- Continuous improvement
+
+#### Practical Steps
+1. Map data flows
+2. Document processes
+3. Implement controls
+4. Monitor compliance
+5. Review regularly
+6. Update as needed
 
 ## Key Roles
 ### Data Protection Authority (DPA)
