@@ -183,10 +183,53 @@ Organizations must:
 - Keep privacy notices updated
 - Be able to demonstrate compliance
      
+# Thinking
 
-2. **Purpose Limitation**
-   - Specific, explicit purposes
-   - No processing beyond stated purposes
+
+# Searching
+
+
+# Responding
+
+
+
+### Purpose Limitation
+
+#### Core Requirements
+- Personal data must be collected for **specified, explicit, and legitimate purposes**
+- Data cannot be processed in ways incompatible with original purposes
+- Must define purposes **before** processing begins
+
+#### Specific Purposes Means
+- Clearly defined and detailed
+- Sufficiently precise to limit scope
+- Understandable to data subjects
+- Must have legitimate aim
+- Cannot be vague or overly broad
+
+#### Examples of Good Purpose Specification
+- "Processing employee data for payroll administration"
+- "Collecting customer details for order fulfillment"
+- "Using contact information for direct marketing of similar products"
+
+#### Examples of Poor Purpose Specification
+- "Improving user experience"
+- "Future business purposes"
+- "Marketing purposes"
+
+#### Key Compliance Points
+- Document all purposes clearly
+- Review regularly to ensure processing stays within scope
+- New purposes require new legal basis
+- Must inform data subjects of any new purposes
+- Cannot repurpose data without compatibility assessment
+
+#### Compatibility Assessment Factors
+- Link between original and new purpose
+- Context of collection
+- Nature of personal data
+- Possible consequences for data subjects
+- Existence of appropriate safeguards
 
 3. **Data Minimization**
    - Only collect what's needed
