@@ -17,12 +17,6 @@
 
 ## Core Principles (Article 5)
 1. **Lawfulness, Fairness, and Transparency**
-# Thinking
-
-
-# Responding
-
-
 
 ## Core Principles (Article 5)
 
@@ -38,16 +32,7 @@
   - Vital interests
   - Public interest
   - Legitimate interests
-    # Thinking
-
-
-# Searching
-
-
-# Responding
-
-
-
+    
 ##### Detailed Breakdown of Legal Bases
 
 ###### 1. Consent
