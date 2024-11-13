@@ -608,3 +608,49 @@ Organizations must:
 - Handle third-party requests carefully
 - Document all requests
 - Can charge fees or refuse excessive requests with justification
+
+# GDPR Individual Rights: Rectification and Erasure
+
+## Right to Rectification
+- Enables individuals to request updates to inaccurate/incomplete data
+- **Response Timeline**: One month deadline after confirming inaccuracy
+- **Request Format**: Can be verbal or written
+
+### Handling Rectification
+1. **Refusal Options**:
+   - Disagreement over accuracy/completeness
+   - Controller satisfied with existing data accuracy
+2. **Third Party Notifications**:
+   - Must inform third parties of rectifications
+   - Document if notification is impossible/disproportionate
+
+### Practical Example
+- French digital store implementation:
+  - System-wide updates for changed contact details
+  - Third-party notification processes
+
+## Right to Erasure ("Right to be Forgotten")
+
+### Valid Erasure Grounds
+1. Data no longer needed
+2. Consent withdrawn
+3. Subject objects with no overriding processing grounds
+4. Unlawful processing
+5. Compliance with EU/member state law
+
+### Technical Considerations
+- **Backup Management**:
+  - Applies to both live systems and backups
+  - Ensure backups can't be accidentally restored
+  - Implement compliance checks for restoration
+
+### Legal Considerations
+- **Retention Requirements**:
+  - Some records must be kept (e.g., French accounting: 10 years)
+  - May need to decline erasure requests due to legal obligations
+
+### Implementation Example
+- French digital store considerations:
+  - Multiple data storage locations (ordering, CRM, accounting)
+  - Third-party fulfillment partner notifications
+  - System-wide erasure protocols
