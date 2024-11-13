@@ -564,3 +564,47 @@ Data may be kept longer for:
   - Right to compensation
   - Covers material/non-material damage
   - Any GDPR infringement can trigger it
+
+# Case Study Overview
+- A Belgian charity case from 2012-2019 involving a donor named Adele
+- Highlights issues with **right to object** and **right to erasure**
+- Demonstrates the conflict between marketing legitimate interests and individual rights
+
+## Key GDPR Rights Illustrated
+1. **Right to Object (Article 21 GDPR)**
+- Individuals can object to processing of their personal data
+- Must be clearly and unambiguously stated by organizations
+- Objections should be respected immediately without additional investigation
+
+2. **Right to Erasure (Article 17 GDPR)**
+- Also known as "right to be forgotten"
+- Organizations must delete personal data when requested
+- Applies when processing is no longer necessary or consent is withdrawn
+
+## GBA Decision Highlights
+- **Ruled against the charity**, imposing a €1,000 fine
+- Key findings:
+  - Controller's interests did not outweigh individual rights
+  - Processing for fundraising wasn't reasonably expected
+  - Non-compliance lasted 5+ months after erasure request
+
+## General GDPR Rights Framework
+The notes outline eight fundamental rights:
+1. **Right to be informed** (Articles 13 & 14)
+2. **Right of access** (Article 15)
+   - Through Subject Access Requests (SARs)
+   - 30-day response timeline
+   - Can be extended by 2 months for complex requests
+
+## Implementation Requirements
+Organizations must:
+1. Review existing systems and processes
+2. Train staff on GDPR compliance
+3. Update privacy policies and notices
+
+## SAR Process Requirements
+- Respond within 30 days
+- Verify requestor identity
+- Handle third-party requests carefully
+- Document all requests
+- Can charge fees or refuse excessive requests with justification
