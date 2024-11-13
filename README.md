@@ -654,3 +654,65 @@ Organizations must:
   - Multiple data storage locations (ordering, CRM, accounting)
   - Third-party fulfillment partner notifications
   - System-wide erasure protocols
+
+# Thinking
+
+
+# Responding
+
+
+
+# GDPR Individual Rights: Restriction and Portability
+
+## Right to Restriction of Processing
+
+### Qualifying Circumstances
+1. **Contested Accuracy**
+   - Applies until accuracy is verified
+2. **Unlawful Processing**
+   - When subject requests restriction instead of erasure
+3. **Purpose Limitation**
+   - Controller no longer needs data
+   - Subject requires it for legal claims
+4. **Pending Verification**
+   - During review of erasure request grounds
+
+### Implementation Methods
+1. **Temporary Data Movement**
+   - Transfer to separate systems
+   - Make data unavailable to users
+2. **Website Removal**
+   - Temporary removal from public access
+
+### Processing Exceptions
+Restricted data can only be processed if:
+- Individual provides specific consent
+- Required for legal claims
+- Protecting rights of others
+- Important public interest reasons
+
+### Practical Example
+**Banking Scenario**:
+- Customer requests account closure
+- Bank must retain data for legal obligations
+- Restriction offers alternative to erasure
+- Prevents unwanted data usage while maintaining compliance
+
+## Right to Data Portability
+
+### Core Elements
+- Enables data transfer between services
+- Promotes service provider flexibility
+- Requires safe and easy transfer mechanisms
+
+### Implementation Requirements
+- Significant technical investment
+- New systems and processes
+- Secure transfer protocols
+
+### Practical Application
+**French Digital Store Example**:
+- Customer profile transfer capabilities
+- Cross-platform compatibility
+- Competitor site integration
+
