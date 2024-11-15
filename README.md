@@ -716,3 +716,55 @@ Restricted data can only be processed if:
 - Cross-platform compatibility
 - Competitor site integration
 
+# GDPR Individual Rights: Objection and Automated Decision-Making
+
+## Right to Object
+
+### Key Principles
+1. **Direct Marketing**
+   - Absolute right to stop data processing
+   - No exceptions allowed
+   - Must cease immediately upon request
+
+### Objection Handling Requirements
+1. **Format Flexibility**
+   - Verbal or written objections valid
+   - No specific wording required
+   - Can be made to any part of organization
+
+2. **Organizational Responsibilities**
+   - Train all customer-facing staff
+   - Document all objections
+   - Implement clear handling procedures
+
+### Controller Obligations
+- **Balancing Exercise Required**
+  - Must demonstrate processing need exceeds subject rights
+  - Burden of proof lies with controller
+  - Document justification thoroughly
+
+- **Transparency Requirements**
+  - Clear advance notice of right to object
+  - Separate presentation from other information
+  - Include in privacy notice
+
+## Automated Decision-Making Rights
+
+### General Prohibition
+- Decisions solely based on automated processing
+- Especially those with legal or significant effects
+- Cannot fabricate human involvement
+
+### Permitted Circumstances
+1. Legal authorization
+2. Contract necessity
+3. Explicit consent
+
+### Required Safeguards
+1. Specific information provision
+2. Right to human intervention
+3. Right to express viewpoint
+4. Right to explanation
+5. Right to challenge decision
+
+
