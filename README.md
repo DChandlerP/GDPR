@@ -943,3 +943,62 @@ Restricted data can only be processed if:
 - Goes beyond simple data loss
 - Requires prompt action
 - Needs documented response procedure
+
+# GDPR Data Breach Notification Framework
+
+## Notification Requirements (Article 33)
+
+### Timing Requirements
+- **72-hour deadline** after becoming aware
+- Notification "without undue delay"
+- Awareness begins with reasonable certainty of compromise
+
+### Controller Obligations
+1. **Detection Measures**
+   - Required by Article 5(1)(f)
+   - Mandatory breach detection systems
+   - Failure constitutes legal risk
+
+2. **Risk Assessment**
+   - Determine if breach meets definition
+   - Evaluate risk to individual rights
+   - Consider WP29 guidelines criteria
+
+### Assessment Criteria
+1. **Breach Characteristics**
+   - Type and nature
+   - Data sensitivity
+   - Volume affected
+   - Ease of identification
+
+2. **Impact Factors**
+   - Consequence severity
+   - Special subject characteristics
+   - Number affected
+
+## High-Risk Breach Notification (Article 34)
+
+### Notification Triggers
+- High risk to rights/freedoms
+- Significant potential impact
+- Multiple affected individuals
+
+### Exceptions
+1. **Technical Measures**
+   - Data encryption
+   - Other protective measures
+
+2. **Mitigation Actions**
+   - Rapid response
+   - Risk elimination
+
+3. **Practical Limitations**
+   - Disproportionate effort
+   - Unable to identify subjects
+
+### High-Risk Examples
+- Cyberattacks on online services
+- Ransomware without backups
+- Medical record unavailability
+- Mass email address exposure
+
