@@ -831,3 +831,63 @@ Restricted data can only be processed if:
 5. Automated deletion
 6. Form design optimization
 
+# GDPR Data Protection Officers and Impact Assessments
+
+## Data Protection Impact Assessments (DPIAs)
+
+### Required Scenarios
+1. **High-Risk Processing**:
+   - Systematic and extensive profiling
+   - Large-scale special category data processing
+   - Public area monitoring (e.g., CCTV)
+
+### Purpose
+- Assess privacy impact of new products/services
+- Identify potential risks early
+- Integrate with project management
+
+## Data Protection Officer (DPO) Requirements
+
+### Mandatory Appointment Cases
+1. Public authorities
+2. Large-scale regular monitoring
+3. Large-scale special category data processing
+4. Member state law requirements
+
+### Country-Specific Requirements
+- **Germany**: 
+  - 9+ employees in automated processing
+  - 20+ employees in manual processing
+- **Spain**: 
+  - Required for specific sectors
+- **France**: 
+  - Optional but provides declaration exemptions
+
+## Case Study: Glovo AEPD Fine
+- **Issue**: Failed to appoint DPO
+- **Fine**: €25,000
+- **Key Learning**: GDPR compliance isn't optional
+
+## DPO Role Requirements
+
+### Position Characteristics
+- Independence guaranteed
+- Direct reporting to senior management
+- Cannot be penalized for role performance
+- Can have other roles (if no conflicts)
+
+### Core Responsibilities
+1. Advise on GDPR obligations
+2. Monitor compliance
+3. Manage data protection activities
+4. Provide DPIA guidance
+5. Serve as DPA liaison
+6. Conduct staff training
+
+### Qualifications
+- Technical knowledge
+- Privacy expertise
+- Data protection law understanding
+- Risk assessment capability
+
+
