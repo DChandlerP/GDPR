@@ -766,5 +766,68 @@ Restricted data can only be processed if:
 3. Right to express viewpoint
 4. Right to explanation
 5. Right to challenge decision
+   
+# GDPR Accountability and Design Principles
 
+## Accountability Principle
+
+### Core Definition
+- As defined by IAPP: Organizations must **show and evidence compliance** with data protection framework
+- Goes beyond mere "tick-box" exercises
+- Requires developing embedded data protection culture
+
+### Scale of Accountability
+- **Varies by organization size and data processing scope**
+  - Example: Small retailer vs. bank processing millions of transactions
+  - Requirements scale with risk and complexity
+
+### Article 5 Requirements
+1. **Six Processing Principles** (Article 5(1))
+2. **Demonstrable Compliance** (Article 5(2))
+
+### Implementation Requirements
+1. Internal policies for data processing
+2. Allocated responsibilities
+   - Privacy management team
+   - Individual oversight for smaller companies
+3. Employee training programs
+
+## Record-Keeping Requirements
+
+### Article 30 Mandatory Records
+- Controller name and contact details
+- Processing purposes
+- Data subject categories
+- Personal data categories
+- Recipient categories
+- Retention periods
+- Security measures description
+
+### Small Business Exemption
+- Applies to organizations <250 employees
+- **Exceptions to exemption**:
+  - High-risk processing
+  - Regular processing
+  - Special category data
+  - Criminal data
+
+## Data Protection by Design and Default
+
+### Key Concepts
+1. **Privacy by Design**
+   - Build compliance from start
+   - Avoid retroactive solutions
+
+2. **Privacy by Default**
+   - Minimal data collection
+   - Strict privacy settings
+   - Limited storage periods
+
+### Implementation Measures
+1. Data minimization
+2. Pseudonymisation
+3. Security standards
+4. System reviews
+5. Automated deletion
+6. Form design optimization
 
