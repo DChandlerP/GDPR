@@ -655,13 +655,6 @@ Organizations must:
   - Third-party fulfillment partner notifications
   - System-wide erasure protocols
 
-# Thinking
-
-
-# Responding
-
-
-
 # GDPR Individual Rights: Restriction and Portability
 
 ## Right to Restriction of Processing
@@ -889,5 +882,34 @@ Restricted data can only be processed if:
 - Privacy expertise
 - Data protection law understanding
 - Risk assessment capability
+
+
+# GDPR Compliance Frameworks and Case Study
+
+## Binding Corporate Rules (BCRs)
+
+### Purpose and Function
+- Privacy framework for multinational companies
+- Enables global personal data movement within corporate groups
+- Ensures consistent data protection levels
+- Provides enforceable rules across organization
+
+### Key Benefits
+- Demonstrates accountability
+- Monitored by lead DPA
+- Supports international data transfers
+
+## Codes of Conduct and Certification
+
+### Benefits
+1. **Enhanced Trust**
+   - Improved transparency
+   - Helps individuals make informed decisions
+2. **Risk Mitigation**
+   - Potential defense against enforcement
+   - Demonstrates compliance effort
+3. **Best Practices**
+   - Improved standards
+   - Consideration for business size
 
 
