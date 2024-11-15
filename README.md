@@ -1002,3 +1002,71 @@ Restricted data can only be processed if:
 - Medical record unavailability
 - Mass email address exposure
 
+# GDPR International Data Transfers
+
+## Basic Framework
+
+### Transfer Requirements
+1. **Within EU**
+   - Free flow between member states
+2. **Outside EU (Third Countries)**
+   - Additional safeguards required
+   - Commission adequacy determination needed
+
+## Adequacy Assessment
+
+### Commission Evaluation Criteria
+- Rule of law
+- Human rights respect
+- Data protection rules
+- Independent supervision
+- International commitments
+- Periodic reviews
+
+### Transfer Mechanisms
+1. **Primary Options**
+   - Adequacy decisions
+   - Appropriate safeguards
+   - Specific derogations
+
+## Data Transfer Definition
+
+### What Constitutes Transfer
+- Intentional processing in third country
+- Not mere data transit
+- Substantive data processing
+
+### Excluded Scenarios
+- Technical routing (email/web)
+- Traveler access to EU websites
+- Public website information access
+
+## Transfer Safeguards
+
+### Acceptable Mechanisms
+1. **Legal Instruments**
+   - Binding corporate rules (BCRs)
+   - Standard contractual clauses (SCCs)
+   - Codes of conduct
+   - Certification measures
+
+2. **Contract Solutions**
+   - Commission-approved SCCs
+   - Direct DPA approvals for large companies
+
+## Derogations
+
+### Permitted Exceptions
+1. **Explicit consent**
+   - Informed of risks
+2. **Contract necessity**
+   - Travel bookings example
+3. **Public interest**
+   - Crime prevention
+   - National security
+4. **Legal claims**
+5. **Vital interests**
+   - Medical emergencies abroad
+
+
+
