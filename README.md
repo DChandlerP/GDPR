@@ -912,4 +912,34 @@ Restricted data can only be processed if:
    - Improved standards
    - Consideration for business size
 
+# GDPR Data Breaches and Notification Requirements
 
+## GDPR Breach Framework
+
+### Definition of Personal Data Breach
+- Security breach leading to:
+  - Destruction
+  - Loss
+  - Alteration
+  - Unauthorized disclosure
+  - Unauthorized access
+
+### Legal Requirements
+1. **Article 33**
+   - DPA notification requirements
+2. **Article 34**
+   - Data subject notification obligations
+
+### Purpose of Breach Notification
+1. **Transparency**
+   - Exposes operational failures
+   - Enables damage mitigation
+2. **Learning Opportunity**
+   - Helps understand failure causes
+   - Improves future prevention
+
+### Key Considerations
+- Must be actual breach with negative outcome
+- Goes beyond simple data loss
+- Requires prompt action
+- Needs documented response procedure
